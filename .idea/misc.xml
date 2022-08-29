@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BT_AdvanceUI/BT_AdvanceUI/app/src/main/res/layout/activity_contact.xml" value="0.36666666666666664" />
+        <entry key="..\:/BT_AdvanceUI/BT_AdvanceUI/app/src/main/res/layout/activity_main.xml" value="0.16590678824721378" />
+        <entry key="..\:/BT_AdvanceUI/BT_AdvanceUI/app/src/main/res/layout/activity_main2.xml" value="0.36666666666666664" />
+        <entry key="..\:/BT_AdvanceUI/BT_AdvanceUI/app/src/main/res/layout/activity_main3.xml" value="0.16590678824721378" />
+        <entry key="..\:/BT_AdvanceUI/BT_AdvanceUI/app/src/main/res/layout/activity_main4.xml" value="0.16590678824721378" />
+        <entry key="..\:/BT_AdvanceUI/BT_AdvanceUI/app/src/main/res/layout/activity_main5.xml" value="0.36666666666666664" />
+        <entry key="..\:/BT_AdvanceUI/BT_AdvanceUI/app/src/main/res/layout/fragment_rainy_weather.xml" value="0.16590678824721378" />
+        <entry key="..\:/BT_AdvanceUI/BT_AdvanceUI/app/src/main/res/layout/fragment_storm_weather.xml" value="0.36666666666666664" />
+        <entry key="..\:/BT_AdvanceUI/BT_AdvanceUI/app/src/main/res/layout/fragment_sunny_weather.xml" value="0.16590678824721378" />
+        <entry key="..\:/BT_AdvanceUI/BT_AdvanceUI/app/src/main/res/layout/fragment_weather.xml" value="0.36666666666666664" />
+        <entry key="..\:/BT_AdvanceUI/BT_AdvanceUI/app/src/main/res/menu/option_menu.xml" value="0.33589743589743587" />
+      </map>
+    </option>
+  </component>
+</project>
